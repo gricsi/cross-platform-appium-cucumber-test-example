@@ -1,0 +1,10 @@
+[caps]
+platformName = "ios"
+platformVersion = "9.2"
+app = "./test.ipa"
+deviceName = "iPhone 6"
+
+bundleId = "com.test"
+
+[appium_lib]
+port = 5555

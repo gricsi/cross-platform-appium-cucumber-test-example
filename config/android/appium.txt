@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "Nexus_5_API_23"
+app = "./app.apk"
+appActivity = "com.test.Activity"
+appPackage = "com.test"
+[appium_lib]
+port = 5555
