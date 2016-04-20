@@ -46,7 +46,6 @@ You should configure the `appium.txt` under the `config/<platform>/` folder.
 You should define `PLATFORM_NAME` with the value `'ios'` or `'android'` (depends on what you want to run):
 
 * In RubyMine's running configuration.
-![Run_Debug_Configurations.png](https://bitbucket.org/repo/XyKMzn/images/514389351-Run_Debug_Configurations.png)
 
 * In the command line:
 ```bash
