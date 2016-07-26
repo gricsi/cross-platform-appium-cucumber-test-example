@@ -69,8 +69,7 @@ export PLATFORM_NAME=android
 - tag parameter is optional
 
 
-```
-#!console
+```bash
 rake run_acceptance[android,@tag_parameter]
 ```
 
@@ -79,8 +78,7 @@ or
 You don't have to start the Appium server manually just use the single_run_acceptance rake command
 
 
-```ruby
-#!console
+```bash
 rake single_run_acceptance[android,@tag_parameter]
 ```
 
@@ -88,8 +86,7 @@ or
 
 Also a simple way to rerun failed cucumber scenarios automtically once - use the single_run_acceptance_with_retry rake command
 
-```
-#!console
+```bash
 rake single_run_acceptance_with_retry[android,@tag_parameter]
 ```
 
